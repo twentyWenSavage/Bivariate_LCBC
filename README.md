@@ -1,4 +1,4 @@
-#  [Bivariate_LCBC](Bivariate_LCBC/Bivariate_LCBC.pdf)
+#  [Bivariate_LCBC](/Bivariate_LCBC.pdf)
   Spatial point pattern analysis plays an important role in various fields, such as biology, ecology, geography, urban planning, etc. When point patterns involve more than species, one important question is how each pair of
 patterns interact in terms of their locations. For example, it is meaningful to investigate whether two types of
 trees are distributed dispersively in ecology, or whether one type of T cells and targeted tumor cells interact
